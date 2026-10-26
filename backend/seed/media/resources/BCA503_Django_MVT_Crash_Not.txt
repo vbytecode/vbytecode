@@ -1,0 +1,7 @@
+Heirloom — BCA503 Web Development
+
+Django MVT Crash Notes
+
+Models, views, templates, REST APIs, JWT auth for a React frontend.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

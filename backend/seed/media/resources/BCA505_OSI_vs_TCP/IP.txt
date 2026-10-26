@@ -1,0 +1,7 @@
+Heirloom — BCA505 Computer Networks
+
+OSI vs TCP/IP
+
+Layer mapping, encapsulation, and exam-oriented comparison tables.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

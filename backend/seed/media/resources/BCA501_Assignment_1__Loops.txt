@@ -1,0 +1,7 @@
+Heirloom — BCA501 Python Programming
+
+Assignment 1 — Loops & Functions
+
+Write functions for factorial, palindrome check, and a simple grade calculator.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

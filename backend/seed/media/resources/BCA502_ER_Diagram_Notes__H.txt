@@ -1,0 +1,7 @@
+Heirloom — BCA502 Database Management Systems
+
+ER Diagram Notes — Heirloom
+
+Entities: User, Course, Enrollment, Resource, Mark, ChatMessage. Keys and relationships.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

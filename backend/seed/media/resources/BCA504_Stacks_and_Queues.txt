@@ -1,0 +1,7 @@
+Heirloom — BCA504 Data Structures
+
+Stacks and Queues
+
+LIFO vs FIFO, infix to postfix, and circular queue operations.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

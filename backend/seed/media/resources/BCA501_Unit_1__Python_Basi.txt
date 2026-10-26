@@ -1,0 +1,7 @@
+Heirloom — BCA501 Python Programming
+
+Unit 1 — Python Basics
+
+Variables, data types, operators, input/output, and control flow with examples used in BCA labs.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh

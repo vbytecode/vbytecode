@@ -1,0 +1,7 @@
+Heirloom — BCA502 Database Management Systems
+
+SQL Practice Sheet
+
+SELECT, JOIN, GROUP BY queries on a STUDENT table similar to the login DFD.
+
+Team Heirloom: Vigya Upadhyay, Kunal choudhary, priyansh
